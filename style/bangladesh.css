@@ -1,0 +1,98 @@
+
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  /* font-optical-sizing: auto; */
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+body{
+    width: 1280px;
+    margin: 0 160px;
+    background-color: #F5F5F5;
+}
+/* shared style */
+
+
+/* nav style */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-title{
+    font-weight: bold;
+    font-size: 32px;
+    color: #0E0E0E;
+}
+
+.green-btn{
+    color: #006A50;
+    font-weight: bold;
+    width: 116px;
+    height: 52px;
+    border-radius: 8px;
+    border: 1px solid #006A50;
+    font-size: 18px;
+    /* margin-right: 160px; */
+}
+
+/* sriti shoudho section */
+.bangladesh{
+    display: flex;
+    background-color: #C6E4D6;
+    gap:60px;
+    justify-content: space-between;
+    border-radius: 24px;
+    height: 560px;
+}
+.bangladesh-content{
+    margin: 117px 0 117px 60px;
+    width: 622px;
+    height: 326px;
+}
+.bangladesh-text{
+    /* width: 622px; */
+    height: 246px;
+    margin-bottom: 24px;
+}
+.bangladesh-heading{
+    font-weight: 500;
+    font-size: 24px;
+    color: rgba(14, 14, 14, 0.7);
+    /* margin-bottom: 8px; */
+}
+.bangladesh-title{
+    width: 622px;
+    height: 201px;
+    font-weight: bold;
+    font-size: 56px;
+    color: #0E0E0E;
+    line-height: 1;
+    margin-top: 0px;
+}
+.bd-btn{
+    width: 270px;
+    height: 56px;
+    border: 1px solid #006A50;
+    border-radius: 8px;
+    /* padding: 17px 34px; */
+    color: white;
+    background-color: #006A50;
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+}
+
+.bd-image{
+    width: 474px;
+    height: 400px;
+    margin: 80px 60px 80px 0;
+}
+
+/* header and bd part end */
+
+/* main part start */
+
