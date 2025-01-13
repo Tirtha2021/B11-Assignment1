@@ -129,6 +129,7 @@ nav{
     font-weight: bold;
     font-size: 20px;
     color: #0E0E0E;
+    margin: 0 24px;
     margin-bottom: 12px;
 }
 .explain{    
@@ -136,7 +137,119 @@ nav{
     color: #0E0E0E;
     font-weight: 400;
     line-height: 24px;
+    margin: 0 24px 24px 24px;
 }
+
+/* vision part start */
+
+.vision{
+    height: 765px;
+    padding: 80px 0;
+}
+
+.vision-future{
+
+}
+.vision-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    padding-bottom: 24px;
+}
+.description{
+    font-size: 16px;
+    color: #0E0E0E;
+    font-weight: 400;
+    line-height: 24px;
+    padding-bottom: 32px;
+}
+
+.vision-card{
+    gap: 24px;
+    margin: 32px 0;
+    display: flex;
+}
+.vision-card-inside{
+    width: 410px;
+    height: 325px;
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+}
+.vision-card-image{
+    margin: 32px 0 0 32px;
+    width: 64px;
+    height: 64px;
+}
+.vision-card-text{
+    margin: 24px 32px;
+}
+.vision-card-text-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+    margin-top: 24px;
+    margin-bottom: 12px;
+}
+.vision-explain{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    /* margin: 12px 32px 24px 32px; */
+}
+
+.btn-green{
+    background-color: rgba(198, 228, 214, 1);
+}
+.btn-yallow
+{
+    background-color: rgba(247, 235, 207, 1);
+}
+ 
+.vision-button{
+    width: 122px;
+    height: 31px;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    background-color: rgba(84, 144, 245, 1);
+    border: none;
+    margin-top: 24px;
+}
+.btn-one{
+    background-color: #09A15C;
+}
+
+.btn-two{
+    background-color: #FFC239;
+}  
+
+.vision-quote{
+    /* height: 256px; */
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    margin-top: 32px;
+    padding: 48px 24px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position:top 38px left 24px;
+}
+
+.quote-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    margin-bottom: 12px;
+    /* margin: 12px 32px 24px 32px; */
+}
+.vision-quote-title{
+    font-weight: 600;
+    font-size: 20px;
+    color: rgba(14, 14, 14, 0.8);
+    margin-bottom: 4px;
+}
+
 /* 
 
 
