@@ -96,3 +96,49 @@ nav{
 
 /* main part start */
 
+/* pillar css make */
+
+.pillars{
+    padding-top: 80px;
+    height: 324px;
+}
+.pillars-card{
+    display: flex;
+    gap: 24px;
+}
+
+.pillars-card-inside{
+    width: 302px;
+    height: 244px;
+    background-color: #ffff;
+    border-radius: 16px;
+    margin-top: 32px;
+}
+
+.pillars-card-image{
+    width: 64px;
+    height: 64px;
+    margin: 24px 0 0 24px;
+}
+
+.pillars-card-text{
+    margin: 24px;
+}
+
+.pillars-card-text-title{
+    font-weight: bold;
+    font-size: 20px;
+    color: #0E0E0E;
+    margin-bottom: 12px;
+}
+.explain{    
+    font-size: 16px;
+    color: #0E0E0E;
+    font-weight: 400;
+    line-height: 24px;
+}
+/* 
+
+
+ */
+    
