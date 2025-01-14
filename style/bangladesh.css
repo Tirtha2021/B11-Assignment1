@@ -463,13 +463,21 @@ nav{
     border:1px solid rgba(14, 14, 14, 0.15);
     border-radius: 16px;
 }
+.donate-card-text:hover{
+    background-color: rgba(198, 228, 214, 1);
+    transition: auto;
+}
 .donate-card-text-title{
     font-size: 40px;
     font-weight: bold;
     color: rgba(14, 14, 14, 0.8);
 }
-.donate-card-text-title-for2{
+/* .donate-card-text-title-for2{
     background-color: rgba(198, 228, 214, 1);
+} */
+.donate-card-text-title-for2:hover{
+    background-color: rgba(198, 228, 214, 1);
+    transition: auto;
 }
 
 .donate-box{
